@@ -1,0 +1,14 @@
+
+
+body {
+  min-width: 600px;
+  height: 100% ;
+
+    background-color: ivory;
+    width: 100%;
+}
+
+#root {
+    
+  margin: auto;
+}

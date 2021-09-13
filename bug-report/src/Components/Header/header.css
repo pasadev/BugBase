@@ -1,0 +1,54 @@
+.header.navbar {
+
+}
+
+h2{
+    color: white;
+}
+
+nav {
+    margin-bottom: 3em;
+}
+
+.header-background{
+    background-color: #f2f2f2;
+}
+
+.selected-app-dropdown {
+
+    margin-right: 2em;
+
+}
+
+
+.navbar-collapse {
+    padding: 1em 0;
+
+
+}
+
+.navbar-collapse.show .header-log-user {
+    margin-top:1em;
+} 
+/* With the react bootstrap collapse there is a small delay 
+where it appears to skip down more*/
+
+
+
+nav .navbar-brand.header-title{
+
+    display:visible;
+}
+
+
+@media (max-width: 800px) {
+    nav {
+      background-color: blue;
+    }
+
+.navbar-brand.header-title{
+
+}
+
+  }
+/* This does not work*/
