@@ -2,7 +2,7 @@ This is the graphical interface of bugbase
 
 The frontend is coded in React.js.
 
-Getting the site up and running.
+## Getting the site up and running.
 
 First, clone the folder into a location of your choosing.
 
